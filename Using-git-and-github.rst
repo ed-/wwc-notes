@@ -17,6 +17,15 @@ Table of Contents
         #. Track your work
         #. Organize your changes
     #. Use git with github
+        #. Get started with github
+        #. Create a repository on github
+        #. Add the github repository as a remote to your local repository
+    #. Contribute to someone else's codebase
+        #. Fork a project
+        #. Create a new fix or feature
+        #. Submit a pull request
+        #. Merge a pull request (as an owner)
+    #. Concepts to remember
 
 
 Quick Legend
@@ -149,10 +158,10 @@ Add the github repository as a remote to your local repository
 
 
 Contribute to someone else's codebase
--------------------------------------
+=====================================
 
 Fork a project
-..............
+--------------
 
     - Find someone else's project on github
     - Click the Fork button in the top right corner
@@ -168,7 +177,7 @@ Fork a project
 
 
 Create a new fix or feature
-...........................
+---------------------------
 
     - Make sure your codebase is up to date
         - ``$ git checkout master``
@@ -182,7 +191,7 @@ Create a new fix or feature
 
 
 Submit a pull request
-.....................
+---------------------
 
     - Go to **your** fork of the project
     - Find the feature branch
@@ -190,7 +199,7 @@ Submit a pull request
 
 
 Merge a pull request (as an owner)
-..................................
+----------------------------------
 
     - Go to **your** project
     - Click on "Pull requests" on the right
@@ -201,7 +210,7 @@ Merge a pull request (as an owner)
 
 
 Concepts to remember
-....................
+====================
 
     - Forking (for our purposes) copies a repository on github to another repository on github
     - Cloning (for our purposes) copies a repository on github to your local machine
