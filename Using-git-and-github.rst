@@ -125,7 +125,7 @@ Create a repository on github
     - Click the big plus sign in the top right corner
     - Click New repository
     - Name your repository
-        - Try to avoid characters outsides of a-zA-Z0-9 and _
+        - Try to avoid characters outside of a-zA-Z0-9 and _
     - Give it a short description
         - You can change this later
     - Keep it public for now
